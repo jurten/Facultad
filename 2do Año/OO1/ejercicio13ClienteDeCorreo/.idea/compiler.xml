@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ejercicio10JobScheduler" />
+        <module name="ejercicio9cuentaConGanchos" />
+        <module name="ejercicio13ClienteDeCorreo" />
+        <module name="ejercicio5Mamíferos" />
+        <module name="ejercicio11ElInversor" />
+        <module name="ejercicio12VolumenYSuperficieDeSólidos" />
+        <module name="ejercicio8distribuidoraElectrica" />
+        <module name="ejercicio4FigurasEn2D" />
+        <module name="ejercicio1-wallpost" />
+        <module name="ejercicio6redAlumbrado" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
